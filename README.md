@@ -12,7 +12,7 @@ Estas livre de utilizar qualquer tecnologia, técnica para a resolução do desa
 Você deve disponibilizar seu código em algum serviço de hospedagem como Github, Bitbucket ou Gitlab.
 É obrigatório ter um **README** com todas as instruções sobre o seu desafio.
 
-Assim que finalizar, nos avise pelo e-mail kevin.wingi@2ibi.com com:
+Assim que finalizar, nos avise pelo e-mail devchallenge@2iBi.com com:
 * Titulo: **[Developer Challenge] Teu Nome**;
 * Link do repositório com o desafio;
 * Informações sobre ti: Github, LinkedIn entre outras informações que consideras importantes.
