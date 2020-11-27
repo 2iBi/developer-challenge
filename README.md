@@ -15,4 +15,5 @@ Você deve disponibilizar seu código em algum serviço de hospedagem como Githu
 Assim que finalizar, nos avise pelo e-mail devchallenge@2iBi.com com:
 * Titulo: **[Developer Challenge] Teu Nome**;
 * Link do repositório com o desafio;
+* Link com o desafio hospedado;
 * Informações sobre ti: Github, LinkedIn entre outras informações que consideras importantes.
